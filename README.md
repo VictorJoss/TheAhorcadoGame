@@ -11,8 +11,10 @@ comenzando generalmente por la cabeza. El juego continúa hasta que el
 jugador adivine la palabra o frase correcta o hasta que se dibujen todas
 las partes del cuerpo del personaje ahorcado. Es un juego popular en
 muchos países.
+
 Se desea implementar una solución en JAVA con POO que utilice patrones de diseño,
 permitiendo simular el juego de “El Ahorcado”.
+
 Es necesario que se apliquen mínimo 2 patrones de diseño para la solucion del problema.
 El sistema debe permitir 3 niveles de dificultad que se escogen al iniciar el juego, la
 dificultad puede ser establecida mediante la longitud de las palabras o la cantidad de
